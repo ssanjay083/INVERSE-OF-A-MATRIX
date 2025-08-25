@@ -31,7 +31,7 @@ print(A_inv)
 ```
 
 ## Output:
-<img width="703" height="267" alt="image" src="https://github.com/user-attachments/assets/804f21be-5d7b-461a-a001-c4ce0ee06db7" />
+<img width="1344" height="585" alt="image" src="https://github.com/user-attachments/assets/2c8d0530-ed00-4a79-b093-55fd4d275a9e" />
 
 
 ## Result:
